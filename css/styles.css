@@ -1,0 +1,26 @@
+header{
+    min-height: 70vh;
+    background-image: linear-gradient(to right,rgba(0,0,0,.9), rgba(0,0,0,.4)), url('../images/banner.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative
+}
+
+.text-box {
+    padding: 20vh 0 5vh 3rem;
+    color: #fff;   
+}
+
+.text-box h1 {
+    font-family: 'Charm', cursive;
+    font-size: 5rem;
+}
+
+.text-box p {
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+.card {
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.3);
+}
