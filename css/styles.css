@@ -24,3 +24,13 @@ header{
 .card {
     box-shadow: 0 1rem 1.5rem rgba(0,0,0,.6);
 }
+
+img{
+    /* width: 450px;
+    height: 300px;
+    margin: 10px; */
+    transition: .5s;
+}
+img:hover{
+    transform: scale(1.1);
+}
